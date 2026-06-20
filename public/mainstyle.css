@@ -1,6 +1,8 @@
 body {
-  background-image: url("https://s6.ezgif.com/tmp/ezgif-6d1c2a563f96bacc.gif");
+  background-image: url(https://media.tenor.com/mLslFWSc_NsAAAAd/cherry.gif);
+  background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 h3 {
